@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jason</h1>
-<h3 align="center">Progressive programming polyglot that prefers PowerShell presently</h3>
+<h3 align="center">Progressive programming polyglot pondering perfect programs</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
