@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">Progressive programming polyglot pondering perfect programs</h3>
+<h3 align="center">Progressive programming polyglot pondering perfect programs</h3>
 
 ###
 
