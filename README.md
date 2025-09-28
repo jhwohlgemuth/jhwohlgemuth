@@ -8,12 +8,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jhwohlgemuth.jhwohlgemuth&"  />
-</div>
-
-###
-
 <p align="left">My socials:</p>
 
 ###
